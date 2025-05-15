@@ -18,7 +18,7 @@ Cocok buat pemula yang belajar **networking** dan **cyber security**.
 
 1. Jalankan script dengan:
 ```bash
-python port-scanner.py
+python simplejawa.py
 
 ```
 ## SALAM RODOK-RODOK 🤟
